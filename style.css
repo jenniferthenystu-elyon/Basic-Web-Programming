@@ -1,5 +1,5 @@
 body{
-    background-color: azure:
+    background-color: azure;
 }
 
 .navbar{
@@ -9,8 +9,7 @@ nav ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
-    display: flex; */
-    justify-content: space-around;
+    display: flex;
 }
 nav ul li {
     display: inline;
@@ -25,6 +24,7 @@ nav ul li a {
 .navbar a:hover{
     background-color: darkslateblue;
 }
+
 
 
 
