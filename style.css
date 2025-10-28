@@ -1,6 +1,9 @@
+body{
+    background-color: azure:
+}
+
 .navbar{
     background-color: bisque;
-    /* padding: 1rem; */
 }
 nav ul {
     list-style-type: none;
@@ -22,6 +25,7 @@ nav ul li a {
 .navbar a:hover{
     background-color: darkslateblue;
 }
+
 
 
 
